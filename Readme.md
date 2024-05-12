@@ -17,7 +17,9 @@ Following code downloads 2000 user reviews for Headspace App on Apple App Store 
 
 This helps us in identifying common themes across cluster and develop insights which can be used to improve user experience and consequently improve life time value of the users.
 
-
+## How to use 
+- **Install required libraries**: use pip install section to install required python packages to run the program.
+- **How to run**: Open User_Review_Analysis_HeadSpace_App.ipynb in colab notebook to run the application. 
 
 
 **This tool is intended for education and informational purposes only.** 
